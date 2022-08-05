@@ -1,4 +1,4 @@
-package com.github.xuzhao1211;
+package com.github.java.assitant;
 
 public class Mian {
 	public static void main(String[] args) {
